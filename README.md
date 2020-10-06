@@ -2,8 +2,10 @@
 
 This repository contains project files for the analysis of university disciplines.
 
-Graph illustration
-![Graph illustration](graph/graph.png)
+## Graph illustration in Neo4j
+![Graph illustration](graph/graph.png "Large sample of a graph")
+
+![Сluster пraph illustration](graph/cluster_graph.png "Сluster graph")
 
 ## Stages of work
 
