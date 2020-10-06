@@ -2,6 +2,9 @@
 
 This repository contains project files for the analysis of university disciplines.
 
+Graph illustration
+![Graph illustration](graph/graph.png, 'Graph illustration')
+
 ## Stages of work
 
 1. Obtaining data from the database of the MMIS laboratory:
