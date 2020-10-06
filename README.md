@@ -1,9 +1,9 @@
 # Discipline analysis
-***
+
 This repository contains project files for the analysis of university disciplines.
-***
+
 ## Stages of work
-***
+
 1. Obtaining data from the database of the MMIS laboratory:
 - Acquaintance with the laboratory relational database schema;
 - Writing
