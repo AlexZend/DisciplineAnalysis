@@ -3,7 +3,7 @@
 This repository contains project files for the analysis of university disciplines.
 
 Graph illustration
-![Graph illustration](graph/graph.png, 'Graph illustration')
+![Graph illustration](graph/graph.png)
 
 ## Stages of work
 
